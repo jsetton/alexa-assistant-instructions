@@ -3,7 +3,7 @@
 
 You must already have the previous version of skill installed. If you do not then please follow the fresh installation instructions here:-
 
-[Installation Instructions](https://github.com/tartanguru/alexa-assistant-instructions/blob/master/fresh_install.md)
+[Installation Instructions](fresh_install.md)
 
 Note - this manual upgrade is required so that the skill code is deployed via AWS CloudFormation. This will alow future upgrades to deployed vai a CloudFormation update
 
@@ -13,7 +13,7 @@ Note - this manual upgrade is required so that the skill code is deployed via AW
 
 These upgrade instructions and the CloudFormation template linked to in these instructions (provided for users installing the lambda function) are licenced under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-If you wish to reproduce the installation instructions and host these on your own website (**I really wish you wouldn't as it makes my life very difficult to support and update the skill**) then you may link to my Cloudformation template (and consequently the zips on my S3 buckets) provided that there is no monetisation on the page e.g. adverts. If you do wish to have monetisation then you will need to host your own Cloudformation template and associated zip files. 
+If you wish to reproduce the installation instructions and host these on your own website (**I really wish you wouldn't as it makes my life very difficult to support and update the skill**) then you may do so and link to my Cloudformation template (and consequently the zips on my S3 buckets) provided that there is no monetisation on the page e.g. adverts. If you do wish to have monetisation then you will need to host your own Cloudformation template and associated zip files. 
 
 I AM VERY SERIOUS ABOUT THIS POINT - I WILL BE CHECKING FREQUENTLY AND WILL CHANGE OR REMOVE THE CLOUDFORMATION TEMPLATE URL IF PEOPLE ARE ABUSING IT
 

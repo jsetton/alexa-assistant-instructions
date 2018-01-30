@@ -1,7 +1,7 @@
 # New Installation Instructions
 
 If you already have Version 1 of the skill installed then please use the instructions here:-
-[Upgrade Instructions](https://github.com/tartanguru/alexa-assistant-instructions/blob/master/upgrade.md)
+[Upgrade Instructions](upgrade.md)
 
 ## MAKE SURE YOU DO THIS INSTALLATION ON A PC/MAC/LINUX MACHINE - A PHONE OR TABLET RUNNING iOS OR ANDROID WILL CAUSE ISSUES
 
@@ -9,7 +9,7 @@ If you already have Version 1 of the skill installed then please use the instruc
 
 These installation instructions and the CloudFormation template linked to in these instructions (provided for users installing the lambda function) are licenced under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-If you wish to reproduce the installation instructions and host these on your own website (**I really wish you wouldn't as it makes my life very difficult to support and update the skill**) then you may link to my Cloudformation template (and consequently the zips on my S3 buckets) provided that there is no monetisation on the page e.g. adverts. If you do wish to have monetisation then you will need to host your own Cloudformation template and associated zip files. 
+If you wish to reproduce the installation instructions and host these on your own website (**I really wish you wouldn't as it makes my life very difficult to support and update the skill**) then you may do so and link to my Cloudformation template (and consequently the zips on my S3 buckets) provided that there is no monetisation on the page e.g. adverts. If you do wish to have monetisation then you will need to host your own Cloudformation template and associated zip files. 
 
 I AM VERY SERIOUS ABOUT THIS POINT - I WILL BE CHECKING FREQUENTLY AND WILL CHANGE OR REMOVE THE CLOUDFORMATION TEMPLATE URL IF PEOPLE ARE ABUSING IT
 
