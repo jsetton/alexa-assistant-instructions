@@ -1,5 +1,4 @@
-
-# Upgrade instructions
+## Upgrade instructions
 
 You must already have the previous version of skill installed. If you do not then please follow the fresh installation instructions here:-
 
@@ -205,6 +204,7 @@ https://developer.amazon.com/edw/home.html
 ![alt text](screenshots/endpoint.jpg)
 
 11. Click Save and then Next
+12. You will now be on "Test" Page. Press the orange Switch with "enabled" next to it so that it changes to "disabled" and then press it again so that it says "enabled"
 
 ## Get your Google Assistant API Credientials
 
@@ -267,6 +267,8 @@ You can now close this window
 13. The grey window will now close and you should see a screen like below. You can now close this window/tab
 
 ![alt text](screenshots/s3_uploaded.jpg)
+
+14. Now Launch the skill by saying "Alexa, Open Google" - you will be asked to re-link your Google account
 
 ## Change the language and location setting
 
